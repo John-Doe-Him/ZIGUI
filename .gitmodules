@@ -1,0 +1,6 @@
+[submodule "path/to/folder"]
+	path = path/to/folder
+	url = https://github.com/TwopTheCreator/cling.git
+[submodule "cling-zig"]
+	path = cling-zig
+	url = https://github.com/TwopTheCreator/cling.git

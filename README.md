@@ -1,4 +1,5 @@
 # ZigUI - Native Zig UI Library
+![ZigUI Logo](logo/zigui.png)
 
 ZigUI is a comprehensive, high-performance UI library written entirely in Zig, designed for creating modern desktop applications with advanced features including 3D graphics, animations, and cross-platform support.
 

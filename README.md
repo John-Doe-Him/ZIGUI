@@ -49,7 +49,7 @@ ZigUI is a comprehensive, high-performance UI library written entirely in Zig, d
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/zigui.git
+git clone https://github.com/John-Doe-Him/zigui.git
 cd zigui
 
 # Build the library
@@ -258,7 +258,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/zigui.git
+git clone https://github.com/John-Doe-Him/zigui.git
 cd zigui
 zig build test
 ```
@@ -292,7 +292,6 @@ ZigUI is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 - **GitHub Issues**: Bug reports and feature requests
 - **Discussions**: General questions and discussions
 - **Discord**: Real-time community chat (coming soon)
-- **Documentation**: Comprehensive API documentation at [docs.zigui.dev](https://docs.zigui.dev)
 
 ## Performance Benchmarks
 
